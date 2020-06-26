@@ -18,7 +18,7 @@ EditURL = "<unknown>/intro.jl"
 
 # 學習程式語言的目的及意義
 ## 學了程式語言能做些什麼事情
-<img src="../img/programer.jpg">
+<img src="../img/programer.jpg" width='50%'>
 
 ---
 
